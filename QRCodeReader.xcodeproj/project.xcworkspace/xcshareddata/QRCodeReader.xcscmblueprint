@@ -4,20 +4,27 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "F3107A68ED9968260E6CD0FF601D8958AFDAF783" : 9223372036854775807,
+    "D030247A0220E166111798E51B4FA1890C088720" : 9223372036854775807,
     "F693FA07A7A77853ACF3BC57A6174451FB9E9962" : 9223372036854775807,
-    "D030247A0220E166111798E51B4FA1890C088720" : 9223372036854775807
+    "72551981A54D922923B0C1FAAB7B45C517AB1BA7" : 9223372036854775807,
+    "F3107A68ED9968260E6CD0FF601D8958AFDAF783" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A99ED81D-1A48-420C-91CB-511118E1E6D3",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "F3107A68ED9968260E6CD0FF601D8958AFDAF783" : "",
+    "D030247A0220E166111798E51B4FA1890C088720" : "ios-decal-finalproj\/",
     "F693FA07A7A77853ACF3BC57A6174451FB9E9962" : "QRCodeReader\/",
-    "D030247A0220E166111798E51B4FA1890C088720" : "ios-decal-finalproj\/"
+    "72551981A54D922923B0C1FAAB7B45C517AB1BA7" : "ios-decal-proj2-part2\/",
+    "F3107A68ED9968260E6CD0FF601D8958AFDAF783" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "QRCodeReader",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QRCodeReader.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hsiungy\/ios-decal-proj2-part2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72551981A54D922923B0C1FAAB7B45C517AB1BA7"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hsiungy\/ios-decal-finalproj.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",

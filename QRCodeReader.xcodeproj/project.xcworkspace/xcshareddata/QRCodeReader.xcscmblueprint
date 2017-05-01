@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D030247A0220E166111798E51B4FA1890C088720",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F3107A68ED9968260E6CD0FF601D8958AFDAF783" : 9223372036854775807,
+    "F693FA07A7A77853ACF3BC57A6174451FB9E9962" : 9223372036854775807,
+    "D030247A0220E166111798E51B4FA1890C088720" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A99ED81D-1A48-420C-91CB-511118E1E6D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F3107A68ED9968260E6CD0FF601D8958AFDAF783" : "",
+    "F693FA07A7A77853ACF3BC57A6174451FB9E9962" : "QRCodeReader\/",
+    "D030247A0220E166111798E51B4FA1890C088720" : "ios-decal-finalproj\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QRCodeReader",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QRCodeReader.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hsiungy\/ios-decal-finalproj.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D030247A0220E166111798E51B4FA1890C088720"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/rockstar2017\/cs198_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F3107A68ED9968260E6CD0FF601D8958AFDAF783"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/appcoda\/QRCodeReader.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F693FA07A7A77853ACF3BC57A6174451FB9E9962"
+    }
+  ]
+}

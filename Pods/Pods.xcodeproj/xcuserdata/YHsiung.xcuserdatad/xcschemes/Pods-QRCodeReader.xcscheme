@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8F0D7A50FCB3B9F949EB1DE9BE2E402C"
+               BlueprintIdentifier = "3F87041695998AE07258F051519A5C52"
                BuildableName = "Pods_QRCodeReader.framework"
                BlueprintName = "Pods-QRCodeReader"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8F0D7A50FCB3B9F949EB1DE9BE2E402C"
+            BlueprintIdentifier = "3F87041695998AE07258F051519A5C52"
             BuildableName = "Pods_QRCodeReader.framework"
             BlueprintName = "Pods-QRCodeReader"
             ReferencedContainer = "container:Pods.xcodeproj">
@@ -60,6 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3F87041695998AE07258F051519A5C52"
+            BuildableName = "Pods_QRCodeReader.framework"
+            BlueprintName = "Pods-QRCodeReader"
+            ReferencedContainer = "container:Pods.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

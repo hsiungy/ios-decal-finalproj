@@ -91,6 +91,9 @@ class QRScannerController: UIViewController, AVCaptureMetadataOutputObjectsDeleg
 
     // MARK: - AVCaptureMetadataOutputObjectsDelegate Methods
     
+    @IBAction func backToScan(_ sender: UIButton) {
+        self.performSegue(withIdentifier: "CameraToScan", sender: self)
+    }
     func captureOutput(_ captureOutput: AVCaptureOutput!, didOutputMetadataObjects metadataObjects: [Any]!, from connection: AVCaptureConnection!) {
         
         // Check if the metadataObjects array is not nil and it contains at least one object.

@@ -2,14 +2,10 @@
 # platform :ios, '9.0'
 
 target 'QRCodeReader' do
-  # Pods for QRCodeReader
-    use_frameworks!
-    pod 'Firebase'
-    pod 'Firebase/Database'
-    pod 'Firebase/Auth'
-    pod 'Firebase/Storage'
-    pod 'SDWebImage', '~>3.8'
-    pod 'MBProgressHUD', '~> 1.0.0'
-    pod 'SinchVerification-Swift'
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
 
+  # Pods for QRCodeReader
+pod 'FacebookLogin'
+pod 'FacebookCore'
 end

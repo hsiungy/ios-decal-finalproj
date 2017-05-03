@@ -1,5 +1,1 @@
-# Building a Barcode and QR code Reader in Swift
-
-This is a demo app showing you how to implement QR and barcode scanning in Swift. For the full tutorial, please refer to the link below:
-
-http://www.appcoda.com/barcode-reader-swift/
+Our app Found! is one that keeps track of your personal items. First, you generate a unique QR code that is based on your phone number, and then you can (hypothetically) create stickers with that QR code to put on your things, such as phone, laptop, books. When someone finds your belonging and sees the QR code sticker on it, they can scan that item with any QR code scanner, and your phone number will show up so they can contact you. There is also a place where you can organize all your items that you want to keep track of into a list.
